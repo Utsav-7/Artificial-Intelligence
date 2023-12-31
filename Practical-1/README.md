@@ -2,6 +2,8 @@
 - Write a program in prolog to implement simple facts and Queries
 ## Practical-1.2
 - Design a FamilyTree for Your Family: Write a program which contains three predicates: male, female, parent. Make rules for following family relations: father, mother, grandfather, grandmother, brother, sister, uncle, aunt, nephew and niece, cousin.
+![Screenshot from 2023-12-31 16-32-11](https://github.com/Utsav-7/Artificial-Intelligence/assets/98468952/726e167c-59c9-4bf7-800a-4e1cb62c7946)
+
 ## Practical-1.3
 - Design a Medical Diagnosis Expert System
 ## Practical-1.4
